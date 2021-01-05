@@ -1,0 +1,15 @@
+/Users/taker/Projects/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.deps.json
+/Users/taker/Projects/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.runtimeconfig.json
+/Users/taker/Projects/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.runtimeconfig.dev.json
+/Users/taker/Projects/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.dll
+/Users/taker/Projects/gradebook/src/GradeBook/bin/Debug/net5.0/ref/GradeBook.dll
+/Users/taker/Projects/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.pdb
+/Users/taker/Projects/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.csprojAssemblyReference.cache
+/Users/taker/Projects/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/taker/Projects/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.AssemblyInfoInputs.cache
+/Users/taker/Projects/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.AssemblyInfo.cs
+/Users/taker/Projects/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.csproj.CoreCompileInputs.cache
+/Users/taker/Projects/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.dll
+/Users/taker/Projects/gradebook/src/GradeBook/obj/Debug/net5.0/ref/GradeBook.dll
+/Users/taker/Projects/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.pdb
+/Users/taker/Projects/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.genruntimeconfig.cache
